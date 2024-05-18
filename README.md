@@ -26,9 +26,19 @@ The dashboard should provide real-time insights into key performance indicators 
 4.	YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a bar chart to visualize the sales distribution geographically.
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
+# Table Of Contents
+- [Dashboard](#dashboard-overview)
+- [Insight 1](#insight-1-sales-and-growth)
+- [Insight 2](#insight-2-weekly-sales-trends)
+- [Insight 3](#insight-3-sales-by-body-style)
+- [Insight 4](#insight-4-sales-by-car-color)
+- [Insight 5](#insight-5-sales-by-dealer-region)
+- [Insight 6](#insight-5-sales-by-dealer-region)
+
 ## Dashboard Overview
 [Dashboard Link](https://public.tableau.com/views/CarSalesDashboard_17149780933690/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-![image](https://github.com/Ruzsel/Car-Sales-Analysis-Tableau/assets/150054552/e9bc58c5-1574-4cf7-99ac-760ce6fb1a6a)
+
+![image](https://github.com/Ruzsel/Car_Sales_Analysis/assets/150054552/d9ffc8ae-42ac-4567-9df2-0c0c31ed6dbb)
 
 # Insights and Solutions
 ### Insight 1: Sales and Growth
@@ -48,7 +58,8 @@ The dashboard should provide real-time insights into key performance indicators 
 ### Insight 2: Weekly Sales Trends
 Weekly sales show fluctuations with peak sales occurring in weeks 36 ($13.33M), 37 ($14.51M), and 50 ($15.53M).
 
-![image](https://github.com/Ruzsel/Car-Sales-Analysis-Tableau/assets/150054552/703e9a48-a52f-49bd-b80b-600f4069318b)
+![image](https://github.com/Ruzsel/Car_Sales_Analysis/assets/150054552/f8e82e9d-6127-4e89-b0be-e94f0d428bbc)
+
 
 ### Solutions:
 
